@@ -1,10 +1,10 @@
 # myionorpject
 
-* This project is a test Project *
+*This project is a test Project*
 
-** Ionic 4 Project **
+**Ionic 4 Project **
 
-## Procedure to Create Project ##
+##Procedure to Create Project
 
 1. Create Project Using CLI Commands
   1. Select the Template
