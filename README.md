@@ -7,13 +7,15 @@
 ## Procedure to Create Project
 
 1. Create Project Using CLI Commands
-  - Select the Template
-  - Select the Project Name
-  - Choose to integrate with Github
-1. Go to the folder
-2. Start the Ionic Server
+  * Select the Template
+  * Select the Project Name
+  * Choose to integrate with Github
+2. Go to the folder
+3. Start the Ionic Server
    * $ ionic serve
-# 
+4. Verify the Browser
+ 
+# New List
 
 1. Item 1
 2. Item 2
