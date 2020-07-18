@@ -44,12 +44,12 @@ function fancyAlert(arg) {
   }
 }
 ```
-
+```
 def foo():
     if not bar:
         return True
         
-
+```
         
 First Header | Second Header
 ------------ | -------------
