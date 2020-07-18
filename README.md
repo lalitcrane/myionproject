@@ -7,9 +7,9 @@
 ## Procedure to Create Project
 
 1. Create Project Using CLI Commands
-  * Select the Template
-  * Select the Project Name
-  * Choose to integrate with Github
+   * Select the Template
+   * Select the Project Name
+   * Choose to integrate with Github
 2. Go to the folder
 3. Start the Ionic Server
    * $ ionic serve
@@ -20,8 +20,8 @@
 1. Item 1
 2. Item 2
 3. Item 3
-  * Item 3a
-  * Item 3b
+   * Item 3a
+   * Item 3b
    
    
 As Usual :
