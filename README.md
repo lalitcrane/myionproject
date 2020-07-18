@@ -2,7 +2,7 @@
 
 *This project is a test Project*
 
-**Ionic 4 Project **
+**Ionic 4 Project**
 
 ##Procedure to Create Project
 
